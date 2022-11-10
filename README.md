@@ -2,6 +2,7 @@
 
 > You can fool part of the people some of the time, you can fool some of the people all of the time, but you cannot fool all the people all of the time.    --Abraham Lincoln
 
+## 卷宗 from liuxin.express
 - [【法医证言】](https://www.kdocs.cn/l/ceZc6M8HFsMk?f=201)
 - [【陈世峰陈述书】](https://www.kdocs.cn/l/ck7E5bCh6uxL?f=201)
 - [【搜查报告书（关于被害人江歌的死因等）】](https://www.kdocs.cn/l/cdtYcRVkECl8?f=201)
@@ -21,3 +22,6 @@
 - [【公审第6回检察官辩论原稿】](https://www.kdocs.cn/l/ckAYMQsfMA8N?f=201)
 - [【公审第6回辩方论点摘要】](https://www.kdocs.cn/l/ckmyeuMkdyXO?f=201)
 - [【搜查报告书（关于刘鑫和江歌的微信对话内容）】](https://www.kdocs.cn/l/coNqvtHpOTag?f=201)
+
+
+江歌案相关卷宗：[Google Drive](https://drive.google.com/drive/folders/1-4cx9pfK8RLIMyix_QCO179CwZfaSGtc)
